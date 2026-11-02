@@ -2,7 +2,7 @@ package no.hvl.dat100.oppgave7;
 
 public class Configuration {
 
-		public static int SERVERPORT = 8080;
+		public static int SERVERPORT = 8585;
 		
 		public static String SERVER = "localhost";
 		
